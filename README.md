@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashish
 - 👀 Looking for good opportunity.
-- 🌱 JAVA, DSA, JAVASCRIPT,MERN Stack, Flutter, Dart
+- 🌱 JAVA, DSA, JAVASCRIPT,MERN Stack
 - 📫 aashishkumargh@gmail.com
 
 <!---
